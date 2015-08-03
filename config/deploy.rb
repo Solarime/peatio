@@ -8,7 +8,7 @@ set :repository, 'https://github.com/solarime/peatio.git'
 set :user, 'deploy'
 set :deploy_to, '/home/deploy/peatio'
 set :branch, 'master'
-set :domain, '192.168.100.3'
+set :domain, '119.254.211.82'
 
 set :shared_paths, [
   'config/database.yml',
