@@ -17,7 +17,7 @@ defaults: &defaults
   SMTP_PORT: 587
   SMTP_DOMAIN: sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
   SMTP_ADDRESS: smtp.mailgun.org
-  SMTP_USERNAME: solarime@hotmail.com
+  SMTP_USERNAME: postmaster@sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
   SMTP_PASSWORD: 71a49c16f96bdb017179379318cfac26
   SMTP_AUTHENTICATION: plain # could be plain, login or cram_md5
 
