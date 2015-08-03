@@ -21,10 +21,10 @@ defaults: &defaults
   SMTP_PASSWORD: 71a49c16f96bdb017179379318cfac26
   SMTP_AUTHENTICATION: plain # could be plain, login or cram_md5
 
-  SUPPORT_MAIL: support@peatio.dev
-  SYSTEM_MAIL_FROM: system@peatio.dev
-  SYSTEM_MAIL_TO: group@peatio.dev
-  OPERATE_MAIL_TO: support@peatio.dev
+  SUPPORT_MAIL: support@sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
+  SYSTEM_MAIL_FROM: system@sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
+  SYSTEM_MAIL_TO: group@sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
+  OPERATE_MAIL_TO: support@sandbox99ef6d35abda486f8da0a0d114f9c819.mailgun.org
 
   # WebSocket Streaming API settings
   # --------------------------------------------------------------
